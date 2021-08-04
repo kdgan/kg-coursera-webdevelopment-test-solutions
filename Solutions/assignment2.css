@@ -1,0 +1,39 @@
+
+
+/* base styles */
+* {
+  box-sizing: border-box;
+}
+h1 {
+  margin-bottom: 15px;
+}
+
+div {
+  border: 1px solid black;
+  background-color: #A52A2A;
+  width: 90%;
+  height: 150px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;
+  color: white;
+}
+
+/* Simple Responsive Framework. */
+.row {
+  width: 100%;
+}
+
+
+/*large devices */
+@media (min-width: 992) {
+	
+}
+/*medium devices */
+@media (min-width: 768)  and (max-width: 991) { 
+
+}
+/*small devices */
+@media (max-width: 767) {
+	
+}
