@@ -1,0 +1,13 @@
+.navbar-head button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid #61122f;  
+	background-color: blue;
+	} 
+.navbar-custom{
+    background-color: #4455cc;
+}
+
+.main-content{
+	padding: 30px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
